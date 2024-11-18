@@ -30,7 +30,7 @@
 ---
 
 ### 🌸 Fun GIF Zone  
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" />
@@ -39,7 +39,7 @@
 ---
 
 ### 🏆 GitHub Stats ✨  
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Monali40&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
   <br />
 </div>
