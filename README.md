@@ -1,16 +1,59 @@
-## Hi there 👋
+### 🌸 Hi there, I’m Monali! 👋  
+---
 
-<!--
-**Monali40/Monali40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌼 About Me  
+- 🎓 **Master’s in Computer Science** from Wright State University  
+- 🌱 Currently growing my skills in **full-stack development**  
+- 🛠️ Building projects with **React.js** and backend frameworks  
+- 🌟 Passionate about learning, collaboration, and solving challenging problems  
+- ✨ Ask me about **JavaScript, React, or backend development!**  
+- 📫 Let’s connect: [LinkedIn]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 My Skills 🌟  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
+</p>  
+
+---
+
+### 🌸 Visitor Counter 🌟  
+![Visitor Count](https://komarev.com/ghpvc/?username=Monali40&color=ff69b4)  
+
+---
+
+### 🌸 Fun GIF Zone  
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" />
+</p>  
+
+---
+
+### 🏆 GitHub Stats ✨  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monali40&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
+  <br />
+</div>
+
+---
+
+### 🌈 Achievements 🌟  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Monali40&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+### ✨ Let’s Connect! 🌟  
+- 📫 **Reach me at:**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MonaliKhot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
+- 💌 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
+
+---
