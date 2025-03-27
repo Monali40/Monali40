@@ -3,7 +3,7 @@
 
 ### 🌼 About Me  
 - 🎓 **Master’s in Computer Science** from Wright State University
--     Skilled in Software testing and Frontend Development
+-  Skilled in Software testing and Frontend Development
 - 🌱 Currently growing my skills in **full-stack development**  
 - 🛠️ Building projects with **React.js** and backend frameworks  
 - 🌟 Passionate about learning, collaboration, and solving challenging problems  
