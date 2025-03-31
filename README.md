@@ -37,11 +37,6 @@
 
 ---
 
-### 🌈 Achievements 🌟  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Monali40&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
-
----
-
 ### ✨ Let’s Connect! 🌟  
 - 📫 **Reach me at:**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-MonaliKhot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
