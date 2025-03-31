@@ -29,16 +29,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Monali40&color=ff69b4)  
 
 ---
-
-### 🌸 Fun GIF Zone  
-<p align="left">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" />
-</p>  
-
----
-
 ### 🏆 GitHub Stats ✨  
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Monali40&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
@@ -55,6 +45,6 @@
 ### ✨ Let’s Connect! 🌟  
 - 📫 **Reach me at:**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-MonaliKhot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
-- 💌 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
+- 💌 **Email:** [Monalikhot00@gmail.com](mailto:Monalikhot00@gmail.com)  
 
 ---
