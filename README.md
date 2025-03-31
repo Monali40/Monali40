@@ -8,7 +8,8 @@
 - 🛠️ Building projects with **React.js** and backend frameworks  
 - 🌟 Passionate about learning, collaboration, and solving challenging problems  
 - ✨ Ask me about **JavaScript, React, or backend development!**  
-- 📫 Let’s connect: [LinkedIn]
+- 💌 **Email:** [Monalikhot00@gmail.com](mailto:Monalikhot00@gmail.com)
+- 📫 **Reach me at:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-MonaliKhot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
 
 ---
 
@@ -24,20 +25,10 @@
 </p>  
 
 ---
-### ✨ Let’s Connect! 🌟  
-- 📫 **Reach me at:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MonaliKhot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
-- 💌 **Email:** [Monalikhot00@gmail.com](mailto:Monalikhot00@gmail.com)  
 
----
 ### 🏆 GitHub Stats ✨  
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monali40&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
-  <br />
-</div>
----
-### 🌸 Visitor Counter 🌟  
-![Visitor Count](https://komarev.com/ghpvc/?username=Monali40&color=ff69b4)  
+![Total Commits](https://github-readme-stats.vercel.app/api?username=Monali40&count_private=true&show_icons=true&hide=prs,issues,stars,contribs&hide_title=true&theme=tokyonight&icon_color=transparent&bg_color=ffffff00&border_radius=10)
+### 🌸 Visitor Counter 🌟  ![Visitor Count](https://komarev.com/ghpvc/?username=Monali40&color=ff69b4)  
 
 ---
 
