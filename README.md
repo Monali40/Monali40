@@ -24,9 +24,10 @@
 </p>  
 
 ---
-
-### 🌸 Visitor Counter 🌟  
-![Visitor Count](https://komarev.com/ghpvc/?username=Monali40&color=ff69b4)  
+### ✨ Let’s Connect! 🌟  
+- 📫 **Reach me at:**  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MonaliKhot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
+- 💌 **Email:** [Monalikhot00@gmail.com](mailto:Monalikhot00@gmail.com)  
 
 ---
 ### 🏆 GitHub Stats ✨  
@@ -34,12 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Monali40&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%"/>
   <br />
 </div>
+---
+### 🌸 Visitor Counter 🌟  
+![Visitor Count](https://komarev.com/ghpvc/?username=Monali40&color=ff69b4)  
 
 ---
 
-### ✨ Let’s Connect! 🌟  
-- 📫 **Reach me at:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MonaliKhot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
-- 💌 **Email:** [Monalikhot00@gmail.com](mailto:Monalikhot00@gmail.com)  
-
----
