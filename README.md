@@ -7,7 +7,7 @@
 - 🌱 Currently growing my skills in **full-stack development**  
 - 🛠️ Building projects with **React.js** and backend frameworks  
 - 🌟 Passionate about learning, collaboration, and solving challenging problems  
-- ✨ Ask me about **JavaScript, React, or backend development!**  
+- ✨ Ask me about **JavaScript, React.js ,Next.js or backend development!**  
 - 💌 **Email:** [Monalikhot00@gmail.com](mailto:Monalikhot00@gmail.com)
 - 📫 **Reach me at:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-MonaliKhot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
 
