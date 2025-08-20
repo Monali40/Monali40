@@ -4,7 +4,7 @@
 ### 🌼 About Me  
 - 🎓 **Master’s in Computer Science** from Wright State University
 - ✨ Skilled in **Software testing** and **Frontend Development**
-- 🌱 Currently growing my skills in **full-stack development**  
+- 🌱 Currently growing my skills in **full-stack development** and **AI Agentic Automation** also building projects.
 - 🛠️ Building projects with **React.js** and backend frameworks  
 - 🌟 Passionate about learning, collaboration, and solving challenging problems  
 - ✨ Ask me about **JavaScript, React.js ,Next.js or backend development!**  
