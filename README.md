@@ -2,12 +2,12 @@
 ---
 
 ### 🌼 About Me  
-🎓 Master’s in Computer Science from Wright State University
-✨ Skilled in Software Testing and Frontend Development
-🌱 Currently learning and exploring agentic AI, AI LLMs like Claude, and OpenCode, while building real-world projects
-🛠️ Developing projects with React.js, Next.js, and backend frameworks
-🌟 Passionate about learning, collaboration, and solving challenging problems
-✨ Ask me about JavaScript, React.js, Next.js, backend development, or AI automation!
+- 🎓 Master’s in Computer Science from Wright State University
+- ✨ Skilled in Software Testing and Frontend Development
+- 🌱 Currently learning and exploring agentic AI, AI LLMs like Claude, and OpenCode, while building real-world projects
+- 🛠️ Developing projects with React.js, Next.js, and backend frameworks
+- 🌟 Passionate about learning, collaboration, and solving challenging problems
+- ✨ Ask me about JavaScript, React.js, Next.js, backend development, or AI automation!
 - 💌 **Email:** [Monalikhot00@gmail.com](mailto:Monalikhot00@gmail.com)
 - 📫 **Reach me at:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-MonaliKhot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
 
@@ -33,9 +33,11 @@
 
 ---
 
-### 🏆 GitHub Stats ✨  
-![Total Commits](https://github-readme-stats.vercel.app/api?username=Monali40&count_private=true&show_icons=true&hide=prs,issues,stars,contribs&hide_title=true&theme=tokyonight&icon_color=transparent&bg_color=ffffff00&border_radius=10)
-### 🌸 Visitor Counter 🌟  ![Visitor Count](https://komarev.com/ghpvc/?username=Monali40&color=ff69b4)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monali40&theme=tokyonight)
 
+## 🌸 Visitor Counter 🌟
+![Visitor Count](https://komarev.com/ghpvc/?username=Monali40&color=ff69b4)
+
+---
 ---
 
