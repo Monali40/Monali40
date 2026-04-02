@@ -2,12 +2,12 @@
 ---
 
 ### 🌼 About Me  
-- 🎓 **Master’s in Computer Science** from Wright State University
-- ✨ Skilled in **Software testing** and **Frontend Development**
-- 🌱 Currently growing my skills in **full-stack development** and **AI Agentic Automation** also building projects.
-- 🛠️ Building projects with **React.js** and backend frameworks  
-- 🌟 Passionate about learning, collaboration, and solving challenging problems  
-- ✨ Ask me about **JavaScript, React.js ,Next.js or backend development!**  
+🎓 Master’s in Computer Science from Wright State University
+✨ Skilled in Software Testing and Frontend Development
+🌱 Currently learning and exploring agentic AI, AI LLMs like Claude, and OpenCode, while building real-world projects
+🛠️ Developing projects with React.js, Next.js, and backend frameworks
+🌟 Passionate about learning, collaboration, and solving challenging problems
+✨ Ask me about JavaScript, React.js, Next.js, backend development, or AI automation!
 - 💌 **Email:** [Monalikhot00@gmail.com](mailto:Monalikhot00@gmail.com)
 - 📫 **Reach me at:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-MonaliKhot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)  
 
